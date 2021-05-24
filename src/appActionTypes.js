@@ -1,0 +1,6 @@
+export const INCREMENT_COUNTER = "INCREMENT_COUNTER";
+export const DECREMENT_COUNTER = "DECREMENT_COUNTER";
+export const SET_TEXT = "SET_TEXT";
+export const SET_ORDERID = "SET_ORDERID";
+export const SET_SKU="SET_SKU" ;
+export const SET_PACKAGE="SET_PACKAGE" ;
