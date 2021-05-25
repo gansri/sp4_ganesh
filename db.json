@@ -1,0 +1,10 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "users": [
+    { "id": 1, "pwd": "nova123", "userid": "ganesh" },
+    { "id": 2, "pwd": "axis123", "userid": "bala" }
+  ],
+  "profile": { "name": "typicode" }
+}
